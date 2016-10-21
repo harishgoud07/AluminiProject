@@ -26,7 +26,7 @@ Student Alumni Home Page
 	<nav id="horizantalMenu">
 	<ul>
 	<li><a href="home.php" class="active">Home</a></li>
-	<li><a href="FindAlumni.php">Find Alumni</a></li>
+	<li><a href="FindAlumni.php">Search Alumni</a></li>
 	<li><a href="MyProfile.php">My Profile</a></li>
 	<li><a href="ChangePassword.php">Password Change</a></li>
 	<li><a href="ContactUs.php">Contact Us </a></li>
